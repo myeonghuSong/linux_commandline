@@ -11,3 +11,9 @@
 - head -n 1 /etc/passwd
 - cat /etc/passwd | head -n 15
 - cat /etc/passwd | head -n -5
+
+# screenshot
+
+<div>
+  <img width="400" src="https://github.com/myeonghuSong/linux_commandline/blob/master/img/head/first.PNG?raw=true">
+</div>
